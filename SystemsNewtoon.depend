@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1448315554 source:d:\project\systemsnewtoon\main.cpp
+	<iostream>
+	"Function.h"
+	"System.h"
+	"Input.h"
+	"Output.h"
+
+1448287006 source:d:\project\systemsnewtoon\src\function.cpp
+	"Function.h"
+
+1448286987 d:\project\systemsnewtoon\include\function.h
+	<vector>
+
+1448315395 source:d:\project\systemsnewtoon\src\input.cpp
+	"Input.h"
+
+1448314954 d:\project\systemsnewtoon\include\input.h
+	<cmath>
+	<vector>
+	<iostream>
+
+1448315132 source:d:\project\systemsnewtoon\src\system.cpp
+	"System.h"
+
+1448315094 d:\project\systemsnewtoon\include\system.h
+	<vector>
+	<algorithm>
+	"Function.h"
+
+1448315276 d:\project\systemsnewtoon\include\output.h
+	<iostream>
+	<vector>
+
+1448314770 source:d:\project\systemsnewtoon\src\output.cpp
+	"Output.h"
+
